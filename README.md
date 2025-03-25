@@ -1,2 +1,2 @@
 # RAG
-Testando técnicas de RAG usando LlamaIndex
+Testando técnicas de RAG usando LangChain
